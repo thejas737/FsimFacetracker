@@ -1,12 +1,7 @@
-# Face Recognition Attendance System
+# Face tracker
 
-A Python-based system that uses OpenCV to detect and recognize faces and automatically mark attendance.
+A Python-based system that uses OpenCV to detect and recognize faces.
 
-## Features
-- Real-time face detection
-- Face recognition using LBPH
-- Automatic attendance logging
-- Simple and efficient implementation
 
 ## Technologies Used
 - Python
