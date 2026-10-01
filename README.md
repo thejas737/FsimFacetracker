@@ -2,6 +2,11 @@
 
 A Python-based system that uses OpenCV to detect and recognize faces.
 
+# FutureExpansions
+1)Face angle tracker
+2)eye tracker
+3)pitch, yaw and elevation sensing
+
 
 ## Technologies Used
 - Python
